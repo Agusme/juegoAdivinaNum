@@ -9,5 +9,5 @@ Es un simple juego que consiste en adivinar un número del 1 al 6. Con el objeti
 - Sweet Alert
 - Boostrap
 
-### Autor
+### Autora
 - Agustina Mena
