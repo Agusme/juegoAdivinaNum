@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-green{
+    background-image: linear-gradient(165deg, #2BD2FF 26%, #1edccf 32%, #2BFF88 100%);
+}
+.btn-empezar{
+    background: #04495c;
+    color: #ffff;
+}
+.btn-empezar:hover{
+    background:  #ffff;
+    color: #04495c;
+}
